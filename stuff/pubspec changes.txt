@@ -1,0 +1,7 @@
+flutter:
+ assets:
+    - assets/login_img.png
+    - assets/logo.png
+
+dependencies:
+  google_fonts: ^6.3.0
